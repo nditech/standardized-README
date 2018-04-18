@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
+  <a href="#documentation">Documentation</a> - 
   <a href="#installation">Installation</a> - 
   <a href="#contributing">Contributing</a> - 
   <a href="#license">License</a> - 
@@ -29,6 +30,9 @@
 </p>
 
 A brief description of the functionality of the script.
+
+## Documentation
+The logic of the script. Explain in details what it does.
 
 ## Installation
 * Step 1
