@@ -2,9 +2,9 @@
   <a href="https://www.ndi.org/"><img src="https://www.ndi.org/sites/all/themes/ndi/images/NDI_logo_svg.svg" alt="NDI Logo" width="200"></a>
 </h1>
 
-<h4 align="center">
+<h1 align="center">
   Name of the script Here
-</h4>
+</h1>
 
 <p align="center">
   <a href="https://github.com/nditech/Standardized-README/blob/master/LICENSE">
