@@ -10,15 +10,6 @@
   <a href="https://github.com/nditech/Standardized-README/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-name-red.svg" alt="License"/>
   </a>
-  <a href="https://docs.npmjs.com/">
-    <img src="https://img.shields.io/badge/npm-version-brightgreen.svg" alt="npm version"/>
-  </a>
-  <a href="">
-      <img src="https://img.shields.io/badge/dependency_name-version-green.svg"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/dev_dependency_name-version-yellowgreen.svg"/>
-  </a>
 </p>
 
 <p align="center">
