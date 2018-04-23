@@ -7,7 +7,7 @@ Standardized README.md files and documentation
 ## Format
 * NDI logo (looks nice)
 * Name of the Repo/Script/App
-* List of important stuff: license... (currently not using distributed continuous integration service like Travis or circleci)
+* List of important stuff: license... (currently not using distributed continuous integration services like Travis or circleci)
 * List of Headings: makes it easier to navigate in long file.
 * Documentation: can include Testing.
 * Installation: guide so users can run the app.
