@@ -30,6 +30,11 @@ The logic of the script. Explain in details what it does.
 * Step 2
 * ...
 
+## Testing
+* Step 1
+* Step 2
+* ...
+
 ## Contributing
 Guide to contribute to this repo.
 
