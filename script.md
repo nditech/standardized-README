@@ -10,6 +10,9 @@
   <a href="https://github.com/nditech/Standardized-README/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-name-red.svg" alt="License"/>
   </a>
+  <a href="https://github.com/nditech/Standardized-README/blob/master/LICENSE">
+    <img src="https://img.shields.io/npm/v/node.svg" alt="Nodejs"/>
+  </a>
 </p>
 
 <p align="center">
