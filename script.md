@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/nditech/Standardized-README/blob/master/LICENSE">
+  <a href="https://github.com/nditech/standardized-README/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-name-red.svg" alt="License"/>
   </a>
   <a href="https://nodejs.org/en/">
@@ -26,25 +26,28 @@
 A brief description of the functionality of the script.
 
 ## Documentation
+
 The logic of the script. Explain in details what it does.
 
 ## Installation
+
 * Step 1
 * Step 2
 * ...
 
 ## Testing
+
 * Step 1
 * Step 2
 * ...
 
 ## Contributing
+
 Guide to contribute to this repo.
 
 ## License
-[License Name](./LICENSE)
 
-<hr />
+[License Name](./LICENSE)
 
 ## Author(s)
 
