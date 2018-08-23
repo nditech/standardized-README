@@ -21,7 +21,7 @@ Standardized README.md files and documentation
 
 ## Folder Structure and File Name
 
-* Follow Google's [Javascript Style Guide](https://google.github.io/styleguide/jsguide.html) and Airbnb's [React Style Guie](https://github.com/airbnb/javascript/tree/master/react).
+* Follow Google's [Javascript Style Guide](https://google.github.io/styleguide/jsguide.html) and Airbnb's [React Style Guide](https://github.com/airbnb/javascript/tree/master/react).
 * Some old projects did not follow this standard but this applies to new ones (from September 2018).
 * Keys:
     * Use `all-lower-case-file-name.js` except in React folders, `ReactComponent` (PascalCase) and `reactProjectFile.js` (camelCase). 
