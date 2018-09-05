@@ -19,9 +19,10 @@ Standardized README.md files and documentation
 * License: best practice to include license, however this can be omitted.
 * Author(s)
 
-## Folder Structure and File Name
+## Style Guide
 
-* Follow Google's [Javascript Style Guide](https://google.github.io/styleguide/jsguide.html) and Airbnb's [React Style Guide](https://github.com/airbnb/javascript/tree/master/react).
+* When commit code, follow [Code Commit Guide](https://github.com/nditech/git-styleguide/blob/gh-pages/README.md).
+* When working with Javascript and or React project, follow Google's [Javascript Style Guide](https://google.github.io/styleguide/jsguide.html) and Airbnb's [React Style Guide](https://github.com/airbnb/javascript/tree/master/react).
 * Some old projects did not follow this standard but this applies to new ones (from September 2018).
 * Keys:
     * Use `all-lower-case-file-name.js` except in React folders, `ReactComponent` (PascalCase) and `reactProjectFile.js` (camelCase). 
