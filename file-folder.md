@@ -8,9 +8,17 @@ Please follow this guide before:
 
 ### GitHub Repository Name
 
-Name Format: `Name = prefix + sender + receiver` or `Name = prefix + functionality`
+Name Format: 
+```
+Name = prefix + sender + receiver
+Name = prefix + functionality + year
+Name = functionality + year
 
-**Team Name: Prefix (<= 6 letters)**
+GOOD: hr-lawson-cigna, ac-concur-costpoint, tech-inventory, cewa-nigeria-2019
+BAD: ndi-inventory
+```
+* Team Name: Prefix (<= 6 letters)
+* DO NOT: include `ndi` in the name since this is NDI's repositories, adding `ndi` doesn't help when searching for repositories.
 
 Administrative Teams:
 * Accounting: `ac-`
@@ -25,13 +33,19 @@ Regional Teams (NDI regional team acronyms: Asia/CEE/CEWA/Eurasia/LAC/MENA/SEA)
 * Middle East & North Africa: `mena-`
 * Southern & East Africa: `sea-`
 
-Examples: `hr-lawson-cigna`, `ac-concur-costpoint`, `tech-inventory`, `cewa-nigeria-2019`…
-
 ### Google Drive Folder Name
 
-Name Format: `Name = PREFIX + TECHNOLOGY + Purpose`
+Name Format:
+```
+Name = PREFIX + TECHNOLOGY + Purpose
 
-Examples: `HR JS Outputs`: Human Resources' Javascript outputs, `AC JS Outputs`: Accounting's Javascript outputs...
+GOOD:
+HR JS Outputs // Human Resources' Javascript outputs.
+AC JS Outputs // Accounting's Javascript outputs.
+Test // Test folder can contain several sub-folders.
+BAD:
+Production // So many Production folders by many teams. It's important to easily find the production folder for each project.
+```
 
 ## Structure
 
