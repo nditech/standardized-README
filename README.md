@@ -2,6 +2,8 @@
 
 Standardized README.md files and documentation
 
+:warning: Please follow [File and Folder Guide](./file-folder.md) before creating GitHub repository and Google Drive folder.
+
 ## List of samples
 
 * [Standard Script Readme File](./script.md)
@@ -18,10 +20,6 @@ Standardized README.md files and documentation
 * Contributing: guide for other developers in the future.
 * License: best practice to include license, however this can be omitted.
 * Author(s)
-
-## File and Folder Guide
-
-:warning: Please follow [File and Folder Guide](./file-folder.md) before creating GitHub repository and Google Drive folder.
 
 ## Style Guide
 
