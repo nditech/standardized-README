@@ -18,7 +18,7 @@ GOOD: hr-lawson-cigna, ac-concur-costpoint, tech-inventory, cewa-nigeria-2019
 BAD: ndi-inventory
 ```
 * Team Name: Prefix (<= 6 letters)
-* DO NOT: include `ndi` in the name since this is NDI's repositories, adding `ndi` doesn't help when searching for repositories.
+* DO NOT: include `ndi` in the name since this is NDI's GitHub, adding `ndi` doesn't help when searching for repositories.
 
 Administrative Teams:
 * Accounting: `ac-`
