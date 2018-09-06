@@ -6,7 +6,7 @@ Standardized README.md files and documentation
 
 * [Standard Script Readme File](./script.md)
 
-## Format
+## README.md Format
 
 * NDI logo (looks nice)
 * Name of the Repo/Script/App
@@ -18,6 +18,10 @@ Standardized README.md files and documentation
 * Contributing: guide for other developers in the future.
 * License: best practice to include license, however this can be omitted.
 * Author(s)
+
+## File and Folder Guide
+
+:warning: Please follow [File and Folder Guide](./file-folder.md) before creating GitHub repository and Google Drive folder.
 
 ## Style Guide
 
