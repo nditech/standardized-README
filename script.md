@@ -51,12 +51,11 @@ Guide to contribute to this repo.
 
 ## Author(s)
 
-<b>Author Name</b>
-> Website [developer-website.com](https://www.google.com) &nbsp;&middot;&nbsp;
-> GitHub [github_account](https://github.com) &nbsp;&middot;&nbsp;
-> Twitter [@twitter_account](https://twitter.com)
-
-<b>Author Name</b>
-> Website [developer-website.com](https://www.google.com) &nbsp;&middot;&nbsp;
-> GitHub [github_account](https://github.com) &nbsp;&middot;&nbsp;
-> Twitter [@twitter_account](https://twitter.com)
+* <b>Author Name</b>
+    > Website [developer-website.com](https://www.google.com) &nbsp;&middot;&nbsp;
+    > GitHub [github_account](https://github.com) &nbsp;&middot;&nbsp;
+    > Twitter [@twitter_account](https://twitter.com)
+* <b>Author Name</b>
+    > Website [developer-website.com](https://www.google.com) &nbsp;&middot;&nbsp;
+    > GitHub [github_account](https://github.com) &nbsp;&middot;&nbsp;
+    > Twitter [@twitter_account](https://twitter.com)
