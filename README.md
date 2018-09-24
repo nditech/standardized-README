@@ -1,5 +1,3 @@
-# Standardized README
-
 <h1 align="center">
   <a href="https://www.ndi.org/"><img src="https://www.ndi.org/sites/all/themes/ndi/images/NDI_logo_svg.svg" alt="NDI Logo" width="200"></a>
 </h1>
