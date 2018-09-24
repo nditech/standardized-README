@@ -1,7 +1,7 @@
 # Collaborator Access Guide
 
 * **Only NDI employees have access to NDI Tech GitHub as `members` or `owners`**.
-* Any outside developer / contributor / collaborator / vendor... will be invited as a collaborator to the specific repository that he or she is working on. That way, the collaborators cannot see NDI's private repositories by default.
+* Any outside developer / contributor / collaborator / vendor... will be invited as a collaborator to the specific repository that he or she is working on. 
 * Collaborators will have to fork NDI's repository and make pull request to contribute code. That way, cocollaborators cannot accidentally make changes on `master branch` but still be able to fork the repository as private without having GitHub premium.
 
 > * Collaborators can still copy the code or duplicate the repository and make the code public without NDI's permission. A non-disclosure agreement is needed for projects with sensitive data.
