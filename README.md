@@ -27,7 +27,7 @@ This repository is used for NDI Tech Team's standardized **readme files**, **doc
 
 ## Style Guide
 
-* When commit code, follow [Code Commit Guide](https://github.com/nditech/git-styleguide/blob/gh-pages/README.md).
+* When commit code, follow [Code Commit Guide](./code-commit.md).
 * When working with Javascript and or React project, follow Google's [Javascript Style Guide](https://google.github.io/styleguide/jsguide.html) and Airbnb's [React Style Guide](https://github.com/airbnb/javascript/tree/master/react).
 * Some old projects did not follow this standard but this applies to new ones (from September 2018).
 * Keys:
