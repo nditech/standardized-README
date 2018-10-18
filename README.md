@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  NDI Tech's Standards for GitHub
+  NDI Tech's GitHub Guidelines
 </h1>
 
 <p align="center">
