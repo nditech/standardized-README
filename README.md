@@ -44,7 +44,7 @@ This repository is used for NDI Tech Team's standardized **readme files**, **doc
 * Testing: guide to do tests.
 * Installation: guide so users can run the app.
 * Contributing: guide for other developers in the future.
-* License: best practice to include license, however this can be omitted.
+* License: best practice to include license, however this can be omitted. Recommended license for public repositories: GNU General Public License v3.0 (`gpl-3.0`), for private repositories: Apache license 2.0 (`apache-2.0`).
 * Author(s)
 
 ## Readme Samples
