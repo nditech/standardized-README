@@ -49,4 +49,5 @@ This repository is used for NDI Tech Team's standardized **readme files**, **doc
 
 ## Readme Samples
 
-* [Standard Script Readme File](./script.md)
+* [Private Repository Readme File](./script.md)
+* [Public Repository Readme File](./full-stack.md)

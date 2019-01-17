@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  Name of the script Here
+  Name of the script here
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <p align="center">
   <a href="#documentation">Documentation</a> - 
   <a href="#installation">Installation</a> - 
-  <a href="#contributing">Contributing</a> - 
+  <a href="#contribution">Contribution</a> - 
   <a href="#license">License</a> - 
   <a href="#authors">Author(s)</a>
 </p>
@@ -35,13 +35,13 @@ The logic of the script. Explain in details what it does.
 * Step 2
 * ...
 
-## Testing
+## Test
 
 * Step 1
 * Step 2
 * ...
 
-## Contributing
+## Contribution
 
 Guide to contribute to this repo.
 
