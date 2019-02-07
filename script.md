@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/nditech/standardized-README/blob/master/LICENSE">
+  <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-name-red.svg" alt="License"/>
   </a>
   <a href="https://nodejs.org/en/">

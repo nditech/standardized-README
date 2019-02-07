@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/nditech/standardized-README/blob/master/LICENSE">
+  <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-name-red.svg" alt="License"/>
   </a>
   <a href="https://docs.mongodb.com/">
@@ -43,34 +43,34 @@ A brief description of the functionality of the app.
 1. [Test](#test)
 1. [Contribution](#contribution)
 
-### Intro
+## Intro
 
 The logic of the app. Explain in details what it does.
 
-### Demo
+## Demo
 
 Link to demo, picture or `.gif` file.
 
-### Installation
+## Installation
 
 * Step 1
 * Step 2
 * ...
 
-### Diagnosis
+## Diagnosis
 
 * How to fix issues.
 * Step 1
 * Step 2
 * ...
 
-### Test
+## Test
 
 * Step 1
 * Step 2
 * ...
 
-### Contribution
+## Contribution
 
 * Please read our [Code Commits Guide](https://github.com/nditech/git-styleguide) and [Documentation Guide](https://github.com/nditech/standardized-README).
 * We also follow Google's [Javascript Style Guide](https://google.github.io/styleguide/jsguide.html) and Airbnb's [React Style Guide](https://github.com/airbnb/javascript/tree/master/react).
