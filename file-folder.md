@@ -15,7 +15,7 @@ Name = prefix + functionality + year
 Name = functionality + year
 
 For multi-function/multi-partner
-Name = brand + data
+Name = brand + descriptor (e.g. apollo-data or demgames-learnings)
 
 GOOD: hr-lawson-cigna, ac-concur-costpoint, tech-inventory, cewa-nigeria-2019
 BAD: ndi-inventory
