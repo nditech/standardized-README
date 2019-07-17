@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/license-name-red.svg" alt="License"/>
+    <img src="https://img.shields.io/badge/license-GPL-red.svg" alt="License"/>
   </a>
   <a href="https://docs.mongodb.com/">
     <img src="https://img.shields.io/badge/mongodb-v3.6.5-blue.svg" alt="mongodb"/>

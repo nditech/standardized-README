@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/license-Apache_License_2.0-red.svg" alt="License"/>
+    <img src="https://img.shields.io/badge/license-Apache_2.0-red.svg" alt="License"/>
   </a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/npm/v/node.svg" alt="NodeJS"/>
